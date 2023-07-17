@@ -27,6 +27,12 @@ button{
 	display: block;
 	text-color: black;
 	background-color: lightgray;
-	width: 70px;
-	height: 70px;
+	width: 150px;
+	height: 150px;
+	margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
