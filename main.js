@@ -1,3 +1,4 @@
 function changeBackgroundColor(color){
-  document.getElementById(hello.html).style.changeBackgroundColor(papayawhip)
+  document.body.style.backgroundColor=color;
 }
+

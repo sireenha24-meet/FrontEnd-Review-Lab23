@@ -22,3 +22,11 @@ a{
 p{
 	font-size: 50px;
 }
+
+button{
+	display: block;
+	text-color: black;
+	background-color: lightgray;
+	width: 70px;
+	height: 70px;
+}
